@@ -1,0 +1,20 @@
+{
+  "name": "time-bucket-gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HirotoOhria/time-bucket-gas.git"
+  },
+  "keywords": [],
+  "author": "hiroto.ohira <hiroto100114@gmail.com> (https://hirotoohira.link/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HirotoOhria/time-bucket-gas/issues"
+  },
+  "homepage": "https://github.com/HirotoOhria/time-bucket-gas#readme"
+}
