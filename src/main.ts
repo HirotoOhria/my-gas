@@ -33,7 +33,7 @@ function getThingsPerAgePeriodArray(thingsWantTodo: thingsWantToDo): thingsPerAg
 }
 
 function getThingsCellByIndex(index: number): string {
-    const firstThingsPerAgePeriodRowNumber = thingsPerAgePeriodRange.match(/\d+/)[0]
+    const firstThingsPerAgePeriodRowNumber = Number(thingsPerAgePeriodRange.match(/\d+/)[0])
 
     return `C${firstThingsPerAgePeriodRowNumber + index}`
 }
